@@ -7,19 +7,19 @@
         <mxCell id="XG8kmVSxOluQT2AAcpYn-24" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="303" width="99" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="XG8kmVSxOluQT2AAcpYn-10" value="Customer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XG8kmVSxOluQT2AAcpYn-10" value="Customer" style="rectangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="177" y="210" width="99" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="XG8kmVSxOluQT2AAcpYn-12" value="Order" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XG8kmVSxOluQT2AAcpYn-12" value="Order" style="rectangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="210" width="99" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="XG8kmVSxOluQT2AAcpYn-13" value="Review" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XG8kmVSxOluQT2AAcpYn-13" value="Review" style="rectangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="72" width="99" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="XG8kmVSxOluQT2AAcpYn-14" value="Employee" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XG8kmVSxOluQT2AAcpYn-14" value="Employee" style="rectangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="696" y="225" width="66" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XG8kmVSxOluQT2AAcpYn-15" value="Product" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XG8kmVSxOluQT2AAcpYn-15" value="Product" style="rectangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="416" y="357" width="99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XG8kmVSxOluQT2AAcpYn-16" value="ISA" style="triangle;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
@@ -28,10 +28,10 @@
         <mxCell id="XG8kmVSxOluQT2AAcpYn-17" value="ISA" style="triangle;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
           <mxGeometry x="515" y="462" width="79" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="XG8kmVSxOluQT2AAcpYn-18" value="Side" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XG8kmVSxOluQT2AAcpYn-18" value="Side" style="rectangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="327" y="546" width="99" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="XG8kmVSxOluQT2AAcpYn-19" value="Pizza" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XG8kmVSxOluQT2AAcpYn-19" value="Pizza" style="rectangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="505" y="543" width="99" height="63" as="geometry" />
         </mxCell>
         <mxCell id="XG8kmVSxOluQT2AAcpYn-20" value="&lt;u&gt;phone_no&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
